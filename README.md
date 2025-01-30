@@ -1,4 +1,4 @@
-# README - Sales Performance Analysis for Trial Store Lat
+Sales Performance Analysis for Trial Store Layout
 
 ## Overview
 
